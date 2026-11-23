@@ -1,0 +1,1 @@
+This folder contains Project 4 and Project 8: Cloud security labs. It includes a cloud monitoring and key management lab, along with a shared-responsibility comparison and diagram based on official documentation.
