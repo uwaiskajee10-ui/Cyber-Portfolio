@@ -1,0 +1,1 @@
+This folder contains Project 3: A Microsoft Entra identity and access lab. It includes the access matrix, architecture diagram, and screenshots demonstrating user management, MFA, and Conditional Access.
