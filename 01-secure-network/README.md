@@ -1,1 +1,0 @@
-This folder contains Project 1: A secure small-business network built in Packet Tracer. It includes the addressing plan, VLANs, inter-VLAN routing, ACLs, and a test table of allowed and denied traffic.
