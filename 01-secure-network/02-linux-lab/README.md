@@ -1,0 +1,1 @@
+This folder contains Project 2: A Linux security lab using an Ubuntu Server VM. It includes the build guide, user and group permissions, SSH and ufw firewall hardening, a command log, and a findings report.
